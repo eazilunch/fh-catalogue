@@ -1,0 +1,16 @@
+body{
+	background: white;
+}
+
+.loading {
+    margin-top: 0;
+    text-align: center;
+}
+
+h1 {
+   margin: 0.5em 1em 0.5em;
+}
+
+div.content {
+    margin: 1em;
+}
